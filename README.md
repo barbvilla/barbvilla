@@ -2,6 +2,9 @@
 
 FrontEnd Developer en formación en Laboratoria
   
-Soy Full Stack Python Developer Junior, Ing. Comercial y Comunicadora Audiovisual. Durante los años que llevo trabajando mi foco siempre han sido los clientes, entenderlos y satisfacer sus necesidades es lo que me mueve y con eso he ayudado a las empresas en las que he trabajado a generar mejoras en los procesos existentes, validar nichos de mercado y aumentar la captación de clientes.
+Soy una desarrolladora front-end apasionada por crear experiencias web únicas y efectivas. He estado trabajando en proyectos de manera autónoma y en equipo 
+para mejorar mis habilidades y adquirir experiencia práctica en el desarrollo web. Actualmente me encuentro en búsqueda de desafíos que permitan aplicar 
+mis conocimientos y experiencia en entornos ágiles para crecer profesionalmente adquiriendo nuevas habilidades y tecnologías a través de la innovación y 
+mejora continua.
 
 Me puedes contactar en Linkedin: https://www.linkedin.com/in/barbara-villasenor/ O al correo: barbara.villasenor.c@gmail.com .
