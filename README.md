@@ -1,6 +1,6 @@
 ¡Hola! Soy Bárbara Villaseñor. 👋
 
-FrontEnd Developer en formación en Laboratoria
+FrontEnd Developer egresada de Laboratoria
   
 Soy una desarrolladora front-end apasionada por crear experiencias web únicas y efectivas. He estado trabajando en proyectos de manera autónoma y en equipo 
 para mejorar mis habilidades y adquirir experiencia práctica en el desarrollo web. Actualmente me encuentro en búsqueda de desafíos que permitan aplicar 
